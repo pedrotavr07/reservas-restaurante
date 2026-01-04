@@ -1,0 +1,3 @@
+"""
+Infraestrutura - Implementações concretas
+"""
